@@ -36,6 +36,7 @@
   --bg: #19171a; /* Background color */
   --sbg: #201e21; /* Cards color */
   --fg: #d8dee9; /* Foreground color */
+  --mus: #BF616A; /* Music Icon Color */
   --sfg: #3a3a3a; /* Secondary Foreground color */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.7),
@@ -248,7 +249,7 @@ body {
   margin-top: 30px;
   margin-bottom: 10px;
   width: 30px;
-  color: var(--fg);
+  color: var(--mus);
   height: 30px;
 }
 .list__link {
